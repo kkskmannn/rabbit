@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"$Actor2%(20 0)","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"$Actor1%(20 0)","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"1_メカニカ顔グラ","traits":[],"initialLevel":1,"maxLevel":99,"name":"メカニカ","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":7,"characterName":"","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"2_主人公","traits":[],"initialLevel":25,"maxLevel":99,"name":"\\n[1]","nickname":"魔法の音楽家","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"1_メカニカ顔グラ","traits":[],"initialLevel":97,"maxLevel":99,"name":"メカニカ","nickname":"最強のメイドロボ","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":2,"characterName":"Animals01","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"\\n[1]","nickname":"","note":"","profile":""}
+]
